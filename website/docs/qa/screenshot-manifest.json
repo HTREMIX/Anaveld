@@ -1,0 +1,184 @@
+{
+  "screenshots": [
+    {
+      "path": "docs/qa/screenshots/desktop-1280-catalogue.png",
+      "bytes": 150080,
+      "sha256": "8b8ed28f3e6ab3d1fbc2ec733718d625304daada8cf0505ece6e42e1cbe7973c"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1280-detail.png",
+      "bytes": 151905,
+      "sha256": "f778f26f11371e24d9d045e287c0f1a843b10ae02d214ea745d18a9aa5c839de"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1280-home-conservatory.png",
+      "bytes": 365153,
+      "sha256": "658ea4ad58ffdb90db2830c3d7a8e2c93a52755b245467eb94839846aaf7d560"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1280-home-editorial.png",
+      "bytes": 357593,
+      "sha256": "612892a8014176099e1b09be7330e6f5c215b630595601168c1d473d0e20961e"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1280-home-hybrid.png",
+      "bytes": 367035,
+      "sha256": "b7133bc64a41133c4d5027d677a5e8602a7ff526d88713cfa2fbdca7432cb745"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1280-home-library.png",
+      "bytes": 347058,
+      "sha256": "f68132c7242d457532c4dc930e4fdf871516535d2318f0e829375396fa2b44b0"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1280-reader-book.png",
+      "bytes": 145868,
+      "sha256": "8cdf5a5e4e59dbaa5af7cd62a6961ff58f07424b0356c78e4fc892cc8eee0db1"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1280-reader-reflow-320.png",
+      "bytes": 81099,
+      "sha256": "f0a5c637f6ca6b48094f5b126e23d7d1ba79eb238e8d8472b65899b218b376bd"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1280-reader-study.png",
+      "bytes": 133260,
+      "sha256": "1d061a4d0a64676648e201de0fb6e8d8538a8517ac43315c73a9788ef8188315"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1440-catalogue.png",
+      "bytes": 152812,
+      "sha256": "1831f0f057c2359b841cdefe681848824465f0f81b6f7d18f799a209bbf38ef2"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1440-detail.png",
+      "bytes": 156986,
+      "sha256": "78b508c1f7c79ac8641504d02188ce62309812a216f2dcc4486c0dd00ff7dd22"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1440-home-conservatory.png",
+      "bytes": 389506,
+      "sha256": "92e04c313dfb8a66c19bca3db3809d5a2f5968cf34380cfd89810056450d4324"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1440-home-editorial.png",
+      "bytes": 378437,
+      "sha256": "582636c9db6dc7811388d83548bb643453755b43a834a05a58a06c3ac670dca2"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1440-home-hybrid.png",
+      "bytes": 390217,
+      "sha256": "a978c9acb0bae2bebae48365a9278ea3bde05f95b4118aa9777be08bee54dd75"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1440-home-library.png",
+      "bytes": 367881,
+      "sha256": "ce81215309c744edf5d2d703e5b2eac7ae08cc76a223661e64f5fe75fb623580"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1440-reader-book.png",
+      "bytes": 148505,
+      "sha256": "36d9d15b01a3d0a77ee8392001abac27bd7b8c2fb9cedbf0765906729d378a70"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1440-reader-reflow-320.png",
+      "bytes": 81099,
+      "sha256": "f0a5c637f6ca6b48094f5b126e23d7d1ba79eb238e8d8472b65899b218b376bd"
+    },
+    {
+      "path": "docs/qa/screenshots/desktop-1440-reader-study.png",
+      "bytes": 135974,
+      "sha256": "3f480f2ee649242d70bccd44bd8125348b390743e27974e987148195105ecb7e"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-360-catalogue.png",
+      "bytes": 112291,
+      "sha256": "9850f2a8190d9ec2e2d6b588638651f35d367bf3eab69d341b636e9a3b9ef478"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-360-detail.png",
+      "bytes": 128794,
+      "sha256": "6cad684dbcbc5add5f47b7b6550fed6d8c9a592d9e1c03a88f3c6e1eb8b3f29f"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-360-home-conservatory.png",
+      "bytes": 227529,
+      "sha256": "8c0424ca709fe0fc3852aeeae5e8453030141bf0f4b0ea74e0381dc58e0ea605"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-360-home-editorial.png",
+      "bytes": 222330,
+      "sha256": "5c61a2219bec24015d89e535142092752f601aeb1d8c6a098cbc1a8c44eab6aa"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-360-home-hybrid.png",
+      "bytes": 227188,
+      "sha256": "423dd6fff5ab4b517327187e5767887cccf482c8d57b03e1e9d6625bb73b3396"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-360-home-library.png",
+      "bytes": 215733,
+      "sha256": "31ed24dce279ed849c99bc820ed00df836c9096531801b31c257f102d7a4e6d8"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-360-reader-book.png",
+      "bytes": 87553,
+      "sha256": "c028dcabf608ccf7b0ed00ae5a3160f2c21f2b66a7f6fcaa83e0fd7ac3754dbd"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-360-reader-reflow-320.png",
+      "bytes": 84802,
+      "sha256": "aba686cdc10142efd821150eca8ff645bf5d5e5064513f7433080b41938361b9"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-360-reader-study.png",
+      "bytes": 87574,
+      "sha256": "21ceb516669a3c6ce60bfd89fe54cde45a99937f6273ed8ed877ee654a2c16eb"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-390-catalogue.png",
+      "bytes": 111178,
+      "sha256": "61ce3e2e037a3c60161fd523c5b525dc0f66d43a2e7dbc8d3a6e89f9d2d35100"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-390-detail.png",
+      "bytes": 127710,
+      "sha256": "ab613c4b3c242c4dc89dcf4ce6f4907e819c358a7bed8ffad51fe1481f6499e9"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-390-home-conservatory.png",
+      "bytes": 235286,
+      "sha256": "d0ad7ac857a43e3a7f65a40d672f5bb476f7a52aa1c1193c2fe0e5eb993eccc0"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-390-home-editorial.png",
+      "bytes": 230047,
+      "sha256": "a8d88f1764b25128aed16f2e5692b45dd20612f2c009544ef907e051d0b4281e"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-390-home-hybrid.png",
+      "bytes": 234548,
+      "sha256": "57004da5615d17a684e3cda977383641e89f133f2d6fe246244bc913b26140c0"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-390-home-library.png",
+      "bytes": 223100,
+      "sha256": "064b82b0c2fc2eb1363d8c201822210d7080f8d02f6eca84e0a8fefbc6a94b98"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-390-reader-book.png",
+      "bytes": 89995,
+      "sha256": "71a4b7e45ce03f5904dc544adbed6686db685a421678856d8895defd19390153"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-390-reader-reflow-320.png",
+      "bytes": 84802,
+      "sha256": "aba686cdc10142efd821150eca8ff645bf5d5e5064513f7433080b41938361b9"
+    },
+    {
+      "path": "docs/qa/screenshots/mobile-390-reader-study.png",
+      "bytes": 90060,
+      "sha256": "30cceb94028ff84e6d21cdbee7816764fc8b2655d69db72251ba71b1cbc98519"
+    }
+  ]
+}

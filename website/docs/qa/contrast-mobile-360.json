@@ -1,0 +1,517 @@
+{
+  "method": "WCAG sRGB luminance; computed opaque HTML colors and nearest opaque ancestor. Decorative artwork and PDF pixels excluded; sampled states only, not WCAG conformance.",
+  "samples": [
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".prototype-banner",
+      "kind": "ordinary-text",
+      "foreground": "rgb(255, 251, 242)",
+      "background": "rgb(6, 26, 49)",
+      "ratio": 16.946290175406663
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".hero h1",
+      "kind": "ordinary-text",
+      "foreground": "rgb(73, 53, 39)",
+      "background": "rgb(246, 241, 230)",
+      "ratio": 10.233284598191002
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".hero h1 em",
+      "kind": "ordinary-text",
+      "foreground": "rgb(73, 100, 80)",
+      "background": "rgb(246, 241, 230)",
+      "ratio": 5.786257597693451
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".hero-intro",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(246, 241, 230)",
+      "ratio": 5.738531040768674
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".eyebrow",
+      "kind": "ordinary-text",
+      "foreground": "rgb(73, 100, 80)",
+      "background": "rgb(246, 241, 230)",
+      "ratio": 5.786257597693451
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".theme-options button[aria-pressed=\"true\"]",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(234, 233, 219)",
+      "ratio": 14.315891468417341
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".theme-options button[aria-pressed=\"false\"]",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(246, 241, 230)",
+      "ratio": 15.538020974481254
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".hero-actions .button-primary",
+      "kind": "ordinary-text",
+      "foreground": "rgb(255, 251, 242)",
+      "background": "rgb(6, 26, 49)",
+      "ratio": 16.946290175406663
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".publication-copy h3",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(246, 241, 230)",
+      "ratio": 15.538020974481254
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".publication-copy p",
+      "kind": "ordinary-text",
+      "foreground": "rgb(73, 100, 80)",
+      "background": "rgb(246, 241, 230)",
+      "ratio": 5.786257597693451
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".demo-label",
+      "kind": "ordinary-text",
+      "foreground": "rgb(73, 100, 80)",
+      "background": "rgb(246, 241, 230)",
+      "ratio": 5.786257597693451
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".approach-principles p",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(234, 233, 219)",
+      "ratio": 5.287171880042532
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".footer-bottom",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(246, 241, 230)",
+      "ratio": 5.738531040768674
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".button-primary:hover",
+      "kind": "ordinary-text",
+      "foreground": "rgb(255, 251, 242)",
+      "background": "rgb(73, 100, 80)",
+      "ratio": 6.31068785665855
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".button-primary:focus-visible outline",
+      "kind": "essential-indicator",
+      "foreground": "rgb(73, 100, 80)",
+      "background": "rgb(246, 241, 230)",
+      "ratio": 5.786257597693451
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".prototype-banner",
+      "kind": "ordinary-text",
+      "foreground": "rgb(255, 249, 237)",
+      "background": "rgb(6, 26, 49)",
+      "ratio": 16.689695585667696
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".hero h1",
+      "kind": "ordinary-text",
+      "foreground": "rgb(73, 53, 39)",
+      "background": "rgb(242, 234, 219)",
+      "ratio": 9.642753608935395
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".hero h1 em",
+      "kind": "ordinary-text",
+      "foreground": "rgb(104, 77, 53)",
+      "background": "rgb(242, 234, 219)",
+      "ratio": 6.502688622463535
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".hero-intro",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(242, 234, 219)",
+      "ratio": 5.407378283326729
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".eyebrow",
+      "kind": "ordinary-text",
+      "foreground": "rgb(104, 77, 53)",
+      "background": "rgb(242, 234, 219)",
+      "ratio": 6.502688622463535
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".theme-options button[aria-pressed=\"true\"]",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(231, 220, 199)",
+      "ratio": 12.88473438041104
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".theme-options button[aria-pressed=\"false\"]",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(242, 234, 219)",
+      "ratio": 14.641370167099543
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".hero-actions .button-primary",
+      "kind": "ordinary-text",
+      "foreground": "rgb(255, 249, 237)",
+      "background": "rgb(6, 26, 49)",
+      "ratio": 16.689695585667696
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".publication-copy h3",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(242, 234, 219)",
+      "ratio": 14.641370167099543
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".publication-copy p",
+      "kind": "ordinary-text",
+      "foreground": "rgb(104, 77, 53)",
+      "background": "rgb(242, 234, 219)",
+      "ratio": 6.502688622463535
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".demo-label",
+      "kind": "ordinary-text",
+      "foreground": "rgb(104, 77, 53)",
+      "background": "rgb(242, 234, 219)",
+      "ratio": 6.502688622463535
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".approach-principles p",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(231, 220, 199)",
+      "ratio": 4.75861426081751
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".footer-bottom",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(242, 234, 219)",
+      "ratio": 5.407378283326729
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".button-primary:hover",
+      "kind": "ordinary-text",
+      "foreground": "rgb(255, 249, 237)",
+      "background": "rgb(104, 77, 53)",
+      "ratio": 7.412413753541524
+    },
+    {
+      "theme": "Grand Library",
+      "selector": ".button-primary:focus-visible outline",
+      "kind": "essential-indicator",
+      "foreground": "rgb(73, 100, 80)",
+      "background": "rgb(242, 234, 219)",
+      "ratio": 5.452350689264683
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".prototype-banner",
+      "kind": "ordinary-text",
+      "foreground": "rgb(252, 252, 243)",
+      "background": "rgb(6, 26, 49)",
+      "ratio": 16.9666515960795
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".hero h1",
+      "kind": "ordinary-text",
+      "foreground": "rgb(49, 77, 56)",
+      "background": "rgb(241, 242, 232)",
+      "ratio": 8.27220287492734
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".hero h1 em",
+      "kind": "ordinary-text",
+      "foreground": "rgb(63, 96, 71)",
+      "background": "rgb(241, 242, 232)",
+      "ratio": 6.253176176263313
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".hero-intro",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(241, 242, 232)",
+      "ratio": 5.72711965350048
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".eyebrow",
+      "kind": "ordinary-text",
+      "foreground": "rgb(63, 96, 71)",
+      "background": "rgb(241, 242, 232)",
+      "ratio": 6.253176176263313
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".theme-options button[aria-pressed=\"true\"]",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(225, 231, 216)",
+      "ratio": 13.854588112403615
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".theme-options button[aria-pressed=\"false\"]",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(241, 242, 232)",
+      "ratio": 15.507122757940914
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".hero-actions .button-primary",
+      "kind": "ordinary-text",
+      "foreground": "rgb(252, 252, 243)",
+      "background": "rgb(6, 26, 49)",
+      "ratio": 16.9666515960795
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".publication-copy h3",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(241, 242, 232)",
+      "ratio": 15.507122757940914
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".publication-copy p",
+      "kind": "ordinary-text",
+      "foreground": "rgb(63, 96, 71)",
+      "background": "rgb(241, 242, 232)",
+      "ratio": 6.253176176263313
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".demo-label",
+      "kind": "ordinary-text",
+      "foreground": "rgb(63, 96, 71)",
+      "background": "rgb(241, 242, 232)",
+      "ratio": 6.253176176263313
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".approach-principles p",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(225, 231, 216)",
+      "ratio": 5.116802459635445
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".footer-bottom",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(241, 242, 232)",
+      "ratio": 5.72711965350048
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".button-primary:hover",
+      "kind": "ordinary-text",
+      "foreground": "rgb(252, 252, 243)",
+      "background": "rgb(63, 96, 71)",
+      "ratio": 6.841724490588346
+    },
+    {
+      "theme": "Sunlit Conservatory",
+      "selector": ".button-primary:focus-visible outline",
+      "kind": "essential-indicator",
+      "foreground": "rgb(73, 100, 80)",
+      "background": "rgb(241, 242, 232)",
+      "ratio": 5.774751303519609
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".prototype-banner",
+      "kind": "ordinary-text",
+      "foreground": "rgb(255, 253, 248)",
+      "background": "rgb(6, 26, 49)",
+      "ratio": 17.216774455866766
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".hero h1",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(250, 248, 241)",
+      "ratio": 16.47031549504025
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".hero h1 em",
+      "kind": "ordinary-text",
+      "foreground": "rgb(39, 62, 81)",
+      "background": "rgb(250, 248, 241)",
+      "ratio": 10.433234826257369
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".hero-intro",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(250, 248, 241)",
+      "ratio": 6.082847801194785
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".eyebrow",
+      "kind": "ordinary-text",
+      "foreground": "rgb(39, 62, 81)",
+      "background": "rgb(250, 248, 241)",
+      "ratio": 10.433234826257369
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".theme-options button[aria-pressed=\"true\"]",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(237, 236, 228)",
+      "ratio": 14.76797096972841
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".theme-options button[aria-pressed=\"false\"]",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(250, 248, 241)",
+      "ratio": 16.47031549504025
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".hero-actions .button-primary",
+      "kind": "ordinary-text",
+      "foreground": "rgb(255, 253, 248)",
+      "background": "rgb(6, 26, 49)",
+      "ratio": 17.216774455866766
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".publication-copy h3",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(250, 248, 241)",
+      "ratio": 16.47031549504025
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".publication-copy p",
+      "kind": "ordinary-text",
+      "foreground": "rgb(39, 62, 81)",
+      "background": "rgb(250, 248, 241)",
+      "ratio": 10.433234826257369
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".demo-label",
+      "kind": "ordinary-text",
+      "foreground": "rgb(39, 62, 81)",
+      "background": "rgb(250, 248, 241)",
+      "ratio": 10.433234826257369
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".approach-principles p",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(237, 236, 228)",
+      "ratio": 5.454134729135699
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".footer-bottom",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(250, 248, 241)",
+      "ratio": 6.082847801194785
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".button-primary:hover",
+      "kind": "ordinary-text",
+      "foreground": "rgb(255, 253, 248)",
+      "background": "rgb(39, 62, 81)",
+      "ratio": 10.906084397888968
+    },
+    {
+      "theme": "Scholarly Editorial",
+      "selector": ".button-primary:focus-visible outline",
+      "kind": "essential-indicator",
+      "foreground": "rgb(73, 100, 80)",
+      "background": "rgb(250, 248, 241)",
+      "ratio": 6.133437992270861
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".search-field input",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(255, 251, 242)",
+      "ratio": 16.946290175406663
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".select-field select",
+      "kind": "ordinary-text",
+      "foreground": "rgb(6, 26, 49)",
+      "background": "rgb(255, 251, 242)",
+      "ratio": 16.946290175406663
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".sample-notice p",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(234, 233, 219)",
+      "ratio": 5.287171880042532
+    },
+    {
+      "theme": "Sunlit Archive",
+      "selector": ".results-caption",
+      "kind": "ordinary-text",
+      "foreground": "rgb(90, 96, 88)",
+      "background": "rgb(246, 241, 230)",
+      "ratio": 5.738531040768674
+    }
+  ]
+}
