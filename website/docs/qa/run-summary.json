@@ -1,0 +1,141 @@
+{
+  "executed_on": "2026-10-21",
+  "os": "Linux-6.18.55-x86_64-with-glibc2.41",
+  "node": "24.19.0",
+  "npm": "11.9.0",
+  "playwright": "1.56.1",
+  "browser": "Chromium 154.0.8037.57 (Debian system binary)",
+  "browser_executable": "/usr/bin/chromium",
+  "mobile": "Chromium touch/DPR2 emulation, not real phones",
+  "command": "PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH=/usr/bin/chromium npm run test:e2e",
+  "stats": {
+    "startTime": "2026-10-21T23:17:43.691Z",
+    "duration": 59388.479,
+    "expected": 20,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "tests": [
+    {
+      "project": "desktop-1440",
+      "title": "actual text tokens, hover, active controls and focus contrast in all art directions",
+      "status": "passed",
+      "duration_ms": 2428
+    },
+    {
+      "project": "desktop-1280",
+      "title": "actual text tokens, hover, active controls and focus contrast in all art directions",
+      "status": "passed",
+      "duration_ms": 2033
+    },
+    {
+      "project": "mobile-390",
+      "title": "actual text tokens, hover, active controls and focus contrast in all art directions",
+      "status": "passed",
+      "duration_ms": 2123
+    },
+    {
+      "project": "mobile-360",
+      "title": "actual text tokens, hover, active controls and focus contrast in all art directions",
+      "status": "passed",
+      "duration_ms": 2013
+    },
+    {
+      "project": "desktop-1440",
+      "title": "equal-content art directions and responsive home",
+      "status": "passed",
+      "duration_ms": 2137
+    },
+    {
+      "project": "desktop-1440",
+      "title": "catalogue discovery, detail, real PDF text and page-preserving reading",
+      "status": "passed",
+      "duration_ms": 4558
+    },
+    {
+      "project": "desktop-1440",
+      "title": "reflow, orientation, reduced motion and PDF failure recovery",
+      "status": "passed",
+      "duration_ms": 2916
+    },
+    {
+      "project": "desktop-1440",
+      "title": "keyboard navigation, page arrows, and mobile menu Escape",
+      "status": "passed",
+      "duration_ms": 2441
+    },
+    {
+      "project": "desktop-1280",
+      "title": "equal-content art directions and responsive home",
+      "status": "passed",
+      "duration_ms": 1985
+    },
+    {
+      "project": "desktop-1280",
+      "title": "catalogue discovery, detail, real PDF text and page-preserving reading",
+      "status": "passed",
+      "duration_ms": 4478
+    },
+    {
+      "project": "desktop-1280",
+      "title": "reflow, orientation, reduced motion and PDF failure recovery",
+      "status": "passed",
+      "duration_ms": 2921
+    },
+    {
+      "project": "desktop-1280",
+      "title": "keyboard navigation, page arrows, and mobile menu Escape",
+      "status": "passed",
+      "duration_ms": 2474
+    },
+    {
+      "project": "mobile-390",
+      "title": "equal-content art directions and responsive home",
+      "status": "passed",
+      "duration_ms": 1548
+    },
+    {
+      "project": "mobile-390",
+      "title": "catalogue discovery, detail, real PDF text and page-preserving reading",
+      "status": "passed",
+      "duration_ms": 4299
+    },
+    {
+      "project": "mobile-390",
+      "title": "reflow, orientation, reduced motion and PDF failure recovery",
+      "status": "passed",
+      "duration_ms": 3063
+    },
+    {
+      "project": "mobile-390",
+      "title": "keyboard navigation, page arrows, and mobile menu Escape",
+      "status": "passed",
+      "duration_ms": 2331
+    },
+    {
+      "project": "mobile-360",
+      "title": "equal-content art directions and responsive home",
+      "status": "passed",
+      "duration_ms": 1424
+    },
+    {
+      "project": "mobile-360",
+      "title": "catalogue discovery, detail, real PDF text and page-preserving reading",
+      "status": "passed",
+      "duration_ms": 4302
+    },
+    {
+      "project": "mobile-360",
+      "title": "reflow, orientation, reduced motion and PDF failure recovery",
+      "status": "passed",
+      "duration_ms": 2877
+    },
+    {
+      "project": "mobile-360",
+      "title": "keyboard navigation, page arrows, and mobile menu Escape",
+      "status": "passed",
+      "duration_ms": 2273
+    }
+  ]
+}

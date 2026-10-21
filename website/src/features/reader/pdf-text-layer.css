@@ -1,0 +1,36 @@
+/* TextLayer subset adapted from pdfjs-dist 5.4.624/web/pdf_viewer.css.
+ * Copyright 2014 Mozilla Foundation. Apache License 2.0.
+ * Modified: scoped to this prototype; omitted unused full-viewer/editor styles.
+ * License: /licenses/PDFjs-Apache-2.0.txt
+ */
+.pdf-page .textLayer {
+  --min-font-size: 1;
+  --text-scale-factor: calc(var(--total-scale-factor) * var(--min-font-size));
+  --min-font-size-inv: calc(1 / var(--min-font-size));
+  color-scheme: only light;
+  position: absolute;
+  text-align: initial;
+  inset: 0;
+  overflow: clip;
+  opacity: 1;
+  line-height: 1;
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  forced-color-adjust: none;
+  transform-origin: 0 0;
+  caret-color: CanvasText;
+  z-index: 0;
+}
+.pdf-page .textLayer :is(span, br) { color: transparent; position: absolute; white-space: pre; cursor: text; transform-origin: 0% 0%; }
+.pdf-page .textLayer > :not(.markedContent), .pdf-page .textLayer .markedContent span:not(.markedContent) {
+  z-index: 1;
+  --font-height: 0;
+  --scale-x: 1;
+  --rotate: 0deg;
+  font-size: calc(var(--text-scale-factor) * var(--font-height));
+  transform: rotate(var(--rotate)) scaleX(var(--scale-x)) scale(var(--min-font-size-inv));
+}
+.pdf-page .textLayer .markedContent { display: contents; }
+.pdf-page .textLayer span[role="img"] { user-select: none; cursor: default; }
+.pdf-page .textLayer ::selection { background: rgba(0, 75, 190, .3); }
+.pdf-page .textLayer br::selection { background: transparent; }
